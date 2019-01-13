@@ -1,0 +1,4 @@
+
+print ("Hello Cern!")
+input ()
+
